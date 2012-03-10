@@ -7,6 +7,6 @@ This is a trivial plugin to IPython notebook that initializes Django inside the 
 
 To use *django_notebook* open IPython notebook with django_notebook as an extension in your Django project directory.
 
-        % ipython notebook -ext=django_notebook
+        % ipython notebook --ext=django_notebook
 
 
